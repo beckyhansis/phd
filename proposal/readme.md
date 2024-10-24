@@ -10,3 +10,4 @@ prcs2024.csv is data gathered by Sylvio from video data. It has visit times for 
 
 proposal2024figs in a Jupyter notebook with the code to made all the bee graphs used in my proposal. 
 
+Tarantula training log.xlsx has the premilinary data and graphs for the adult tarantulas in the lab. 
